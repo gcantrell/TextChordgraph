@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (c) 2015. Greg Cantrell, All rights reserved.
+  -->
+
+<resources>
+    <color name="gcantrell_chordgraph_app_background">#000000</color>
+    <color name="gcantrell_chordgraph_edit_text_background">#40ffffff</color>
+    <color name="gcantrell_chordgraph_label_color">#ffffffff</color>
+
+    <color name="chordgraph_logo_color_light">#46c1f0</color>
+    <color name="chordgraph_logo_color_dark">#00538b</color>
+
+
+    <!-- the basic color of the graph: rim, slots, etc. -->
+    <color name="graph_primary_color">#ffffff</color>
+
+    <!-- Color gradient that the palette will be based off of -->
+    <color name="chord_palette_gradient_begin">#0000ff</color>
+    <color name="chord_palette_gradient_end">#00ff00</color>
+</resources>
