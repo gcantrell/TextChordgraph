@@ -6,12 +6,11 @@
 
     <string name="app_name">Text Chordgraph</string>
     <string name="action_settings">Settings</string>
-    <string name="text_enter_description">The chordgraph shows connections between matching words
-        in the text entered into the box below. Colors are assigned at random with transparency
-        determined by the number of connections.(ie. more connections will be more faint)</string>
+    <string name="text_enter_description">Matching words are connected with a chord. The more
+    connections, the more faint the chord will be.</string>
     <string name="text_enter_label">Enter Text:</string>
     <string name="text_enter_default">Mary had a little lamb little lamb little lamb Mary had a
-        little lamb its fleece was white as snow Everywhere that Mary went Mary went Mary went
-        Everywhere that Mary went the lamb was sure to go </string>
+        little lamb its fleece was white as snow. Everywhere that Mary went Mary went Mary went
+        Everywhere that Mary went the lamb was sure to go.</string>
 
 </resources>

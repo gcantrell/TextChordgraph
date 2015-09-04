@@ -85,7 +85,7 @@ public class ChordGraphFragment extends Fragment {
             // Clear the previous String
             model.clear();
             // Remove all non-alphanumeric values
-            String [] stringArray = newText.split("[\\W]|_");
+            String [] stringArray = newText.split("[^\\w']+");
             // Populate the model
             for (String str : stringArray) {
                 model.addItem(str);
