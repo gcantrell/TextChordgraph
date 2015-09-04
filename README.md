@@ -12,6 +12,7 @@ More information can be found here - [Chordal Graph](https://en.wikipedia.org/wi
 **This app** uses a chordgraph on text entered in a text box on the same activity. It uses the Android Canvas and 2D drawing api to create the graphics.
 
 ## Instructions
+0. Download and install the apk - [Download](https://github.com/gcantrell/TextChordgraph/releases/download/v1.0/app-debug.apk)
 1. Just launch the app and edit the text in the "Enter Text:" text box.
 2. The graph will update automatically.
 
